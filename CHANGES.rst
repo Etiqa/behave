@@ -1,13 +1,12 @@
 Version History
 ===============================================================================
 
-Version: 1.2.6a1 (unreleased)
+Version: 1.2.5.1 (unreleased)
 -------------------------------------------------------------------------------
 
-GOALS:
+ENHANCEMENTS:
 
-  - Improve support for Windows
-
+  * issue #302: Support escaped-pipe in Gherkin table cell value (provided by: connorsml, pull #360)
 
 Version: 1.2.5 (2015-01-31)
 -------------------------------------------------------------------------------
