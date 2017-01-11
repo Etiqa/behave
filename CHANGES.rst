@@ -3,6 +3,9 @@ Version History
 
 Version: 1.2.5.1 (unreleased)
 -------------------------------------------------------------------------------
+FIXED:
+
+  * pull #471: convert an object to unicode (py2) using __unicode__ method first unicode (provided by: ftartaggia)
 
 ENHANCEMENTS:
 
